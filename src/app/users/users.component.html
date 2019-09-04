@@ -1,0 +1,12 @@
+<h3>users works!</h3>
+<h4>List of Users</h4>
+<hr>
+<ul>
+    <input [(ngModel)]="searchText" placeholder="filter your list">
+    <li *ngFor=" let x of users | filter : searchText">
+        <a [routerLink]="['/users',x.id]">{{ x.name }}</a>
+    </li>
+</ul>
+<div>
+    <router-outlet></router-outlet>
+</div>

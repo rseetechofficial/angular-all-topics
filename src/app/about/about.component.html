@@ -1,0 +1,14 @@
+<p>about works!</p>
+
+<br/><hr/>
+
+    <ul>
+        <input [(ngModel)]="searchText">
+        <li *ngFor="let x of users | filter : searchText">
+             <button (click)="showData(x)">{{ x.name }}</button>
+        </li>
+    </ul>
+
+    <hr/>
+    <p>{{ user.name }}</p>
+    <p>{{ user.email }}</p>

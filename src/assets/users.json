@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "name": "Ramesh Graham",
+      "username": "ram",
+      "email": "ramesh@april.biz",
+      "address": {
+        "street": "test Light",
+        "city": "Gwenborough"
+      },
+      "phone": "736-8031",
+      "website": "hildegard.org"
+    },
+    {
+      "id": 2,
+      "name": "Ervin",
+      "username": "test",
+      "email": "test@melissa.tv",
+      "address": {
+        "street": "Victor",
+        "city": "Wissdburgh"
+      },
+      "phone": "0106926593",
+      "website": "anastasia.net"
+    },
+    {
+      "id": 3,
+      "name": "Bauch",
+      "username": "Samgfantha",
+      "email": "sd@yesenia.net",
+      "address": {
+        "street": "Dougzslas",
+        "city": "McKenzziehaven"
+      },
+      "phone": "1234447",
+      "website": "ramiro.info"
+    },
+    {
+      "id": 4,
+      "name": "Patricia",
+      "username": "Karianne",
+      "email": "Julianne@kory.org",
+      "address": {
+        "street": "Hoeger Mall",
+        "city": "South Elvis"
+      },
+      "phone": "4931709623",
+      "website": "kale.biz"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "address": {
+        "street": "Skiles Walks",
+        "city": "Roscoeview"
+      },
+      "phone": "254954-1289",
+      "website": "demarco.info"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "address": {
+        "street": "Norberto",
+        "city": "South Christy"
+      },
+      "phone": "14779358478",
+      "website": "ola.org"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis ",
+      "username": "Elwyn",
+      "email": "Telly@billy.biz",
+      "address": {
+        "street": "Rex Trail",
+        "city": "Howemouth"
+      },
+      "phone": "2100676132",
+      "website": "elvis.io"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwovcod@rosamond.me",
+      "address": {
+        "street": "Ellsworth",
+        "city": "Aliyaview"
+      },
+      "phone": "5864936943",
+      "website": "jacynthe.com"
+    },
+    {
+      "id": 9,
+      "name": "test Richert",
+      "username": "Delphine",
+      "email": "ChaimMccDermott@dana.io",
+      "address": {
+        "street": "Dayna joy",
+        "city": "Bartholomebury"
+      },
+      "phone": "679441206",
+      "website": "conrad.com"
+    },
+    {
+      "id": 10,
+      "name": "hi Clementina",
+      "username": "Moriah.Stanton",
+      "email": "Rey.test@karina.biz",
+      "address": {
+        "street": "Kattie",
+        "city": "Lebsackbury"
+      },
+      "phone": "886483804",
+      "website": "ambrose.net"
+    }
+  ]

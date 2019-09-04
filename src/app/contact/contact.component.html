@@ -1,0 +1,13 @@
+<p>contact works!</p>
+<br/>
+<hr/>
+<h3> Reactive Form Validation </h3>
+<form [formGroup]="frm">
+  Name <input formControlName="name">
+  <div *ngIf="frm.get('name').errors && frm.get('name').touched" style="color: red;">
+      <span *ngIf="frm.get('name').errors.required">Name is required</span>
+      <span *ngIf="frm.get('name').errors.minlength"> Minimum 5 charecters required</span>
+      <span *ngIf="frm.get('name').errors.maxlength">Maximum 15 charecters required</span>
+      <span *ngIf="frm.get('name').errors.pattern">Invalid formats</span>
+  </div>
+</form>

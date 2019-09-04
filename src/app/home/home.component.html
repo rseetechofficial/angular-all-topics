@@ -1,0 +1,19 @@
+<p>home works!</p>
+<br/>
+      <hr/>
+      <h3>Property Binding</h3>
+ Name : <input [value]="your_name">  <!--  [value] =>  Property Binding -->
+ <br/>
+ <hr/>
+ <h3> Object Array</h3>
+ <table border="2">
+        <th>Name</th><th>Age</th>
+        <tr *ngFor="let x of Obj">
+          <td>{{x.name}}</td>
+          <td>{{x.age}}</td>
+          <td><img [src]="x.pic" width="50px" height="50px"></td>
+        </tr>
+      </table>
+
+
+
